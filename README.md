@@ -23,9 +23,9 @@ El usuario puede:
 
 - Nicolás Conejeros
 
-## Repositorio:
+## Repositorio GitHub:
 
-(Aquí irá el enlace de GitHub)
+https://github.com/nicolasconejeros-alt/Ultimo_Proyecto/tree/main
 
 ## Dashboard:
 
